@@ -10,6 +10,8 @@ In 2017, shtekhler studios Inc. bring you the premier Jeff Goldblum experience. 
 
 Is it possible to meme too hard when producing webVR projects? I don't know but I had fun making this and that's the important thing. I built this at the Queercode London webVR meetup.
 
+Music: Hahahrawrrahaha by FLIPSHOT. [Link](https://soundcloud.com/flip-shot/hahahrawrrahaha)
+
 Built with [A-Frame](https://aframe.io), a web framework for building virtual reality experiences. Make WebVR with HTML and Entity-Component. Works on Vive, Rift, desktop, mobile platforms.
 
 Click and drag on desktop. Open it on a smartphone and use the device motion sensors. Or [plug in a VR headset](https://webvr.rocks)!
