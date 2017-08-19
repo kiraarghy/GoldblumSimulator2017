@@ -6,6 +6,8 @@ Where is your god\* now?
 
 In 2017, shtekhler studios Inc. bring you the premier Jeff Goldblum experience. Buy today for the low price of $1million! 
 
+Check it out at [Glitch.](https://goldblumsimulator2017.glitch.me/)
+
 \*Or Jeff Goldblum, they're pretty much the same thing right?
 
 Is it possible to meme too hard when producing webVR projects? I don't know but I had fun making this and that's the important thing. I built this at the Queercode London webVR meetup.
