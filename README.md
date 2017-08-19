@@ -2,6 +2,8 @@
 
 Where is your god\* now?
 
+![alt text](https://cdn.glitch.com/b37a0928-b72f-4a70-bc30-94199ab79d08%2FGoldblum%20simulator2017.png?1503158040873 "Goldblum Simulator")
+
 In 2017, shtekhler studios Inc. bring you the premier Jeff Goldblum experience. Buy today for the low price of $1million! 
 
 \*Or Jeff Goldblum, they're pretty much the same thing right?
